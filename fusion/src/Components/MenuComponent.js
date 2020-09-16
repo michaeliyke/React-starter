@@ -65,7 +65,7 @@ export class Menu extends Component {
     return (
       <div className="container">
         <div className="row">
-          <Media>
+          <Media list>
             {menu}
           </Media>
         </div>
